@@ -13,6 +13,7 @@ jupyterlab = "*"
 torch = {version="==2.0.1", index="torch"}
 
 [dev-packages]
+black = "*"
 
 [requires]
 python_version = "3.11"
